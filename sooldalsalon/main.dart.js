@@ -28224,7 +28224,7 @@ k=o
 n=A.al(k)
 if(t.zx.b(n)){q=new A.ih(null,J.aO9(n),null,n,null,b.i("ih<0>"))
 s=1
-break}q=new A.ih("dd","\uc5d0\ub7ec \ubc1c\uc0dd: "+A.h(J.d5(n)),null,n,null,b.i("ih<0>"))
+break}q=new A.ih(null,"\uc5d0\ub7ec \ubc1c\uc0dd: "+A.h(J.d5(n)),null,n,null,b.i("ih<0>"))
 s=1
 break
 s=6
@@ -97364,7 +97364,7 @@ q=$.F()
 o.push(new A.eE("\ud68c\uc6d0\uac00\uc785",!0,q.gaA(q).gcz(),new A.N(1/0,m),new A.aDF(a),k))
 return new A.rh(A.cC(A.by(A.b([j,A.bA(k,A.by(o,B.bf,B.r,B.an),k,k,new A.c5(r,k,s,k,k,k,k,B.S),k,k,new A.ah(40,40,40,40),new A.ah(68,52,68,52),580)],n),B.y,B.cS,B.z),k,k),k)}}
 A.aDw.prototype={
-$1(a){return A.Dw(this.a.j(0),null,"\uc5ec\uae30\uc11c \uc5d0\ub7ec \ubc1c\uc0dd")},
+$1(a){return A.Dw(this.a.j(0),null,"\uc5d0\ub7ec \ubc1c\uc0dd")},
 $S:57}
 A.aDx.prototype={
 $0(){this.a.d=B.fi},
